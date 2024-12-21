@@ -1,4 +1,4 @@
-# EX-5 Fitting Poisson  
+# EX-2 Fitting Poisson  
 # DATE: 5.10.24
 # Aim : 
 
@@ -80,7 +80,7 @@ else:
 ![Screenshot 2024-12-21 102025](https://github.com/user-attachments/assets/0b66a4bd-1fe1-44d3-8b60-6e5678c21898)
 
 
-# Results
+# Result :
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
